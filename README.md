@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Skia and Reanimated v3 Powered React Native Project</title>
-</head>
+
 <body>
 
 <h1>Skia and Reanimated v3 Powered React Native Project</h1>
